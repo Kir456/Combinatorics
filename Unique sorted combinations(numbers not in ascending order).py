@@ -1,6 +1,7 @@
 from itertools import product
 
 
+print('Write number up to which not including there will be numbers in combinations and length of combinations')
 a, b = list(map(int, input().split()))
 
 
